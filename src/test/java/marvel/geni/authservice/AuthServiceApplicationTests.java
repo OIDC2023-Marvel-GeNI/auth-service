@@ -1,10 +1,10 @@
-package marvel.geni.auth;
+package marvel.geni.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AuthApplicationTests {
+class AuthServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
